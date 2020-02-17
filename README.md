@@ -1,4 +1,4 @@
-# SpringBoot tydzień 2
+# SpringBoot - Tydzień 2
 Zaimplementuj sklep internetowy, który oferuje 3 warianty.
 Podstawową funkcjonalnością jaką posiada każdy sklep jest wariant „START”. Umożliwia on na dodawanie produktów do koszyka (produkt przechowuje nazwę i cenę), oraz na ich podstawie wypisywać na oknie konsoli cenę wszystkich produktów.
 Pakiet „PLUS” dodatkowo umożliwia doliczenie do ceny wynikowej podatku VAT. Stawka podatku VAT ma zostać uwzględniona w pliku konfiguracyjnym.
